@@ -1,6 +1,6 @@
 const Groq = require('groq-sdk');
 const groq = new Groq({
-    apiKey : 'YOUR_API'
+    apiKey : 'YOUR_TOKEN'
 });
 
 async function main() {
